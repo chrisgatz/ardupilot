@@ -59,7 +59,7 @@
 #endif
 
 #if CONFIG_HAL_BOARD == HAL_BOARD_SITL
-#include <SITL/SITL.h>
+#include <SITL.h>
 #endif
 
 #include "mode.h"
